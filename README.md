@@ -1,2 +1,1 @@
-# Falling-Boxes-C23
-C23
+# Box Class
